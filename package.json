@@ -1,5 +1,5 @@
 {
-  "name": "team8_node.js_project",
+  "name": "financial-services",
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NikOroferov/team8_node.js_project.git"
+    "url": "git+https://github.com/VasylBarna/financial-services.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NikOroferov/team8_node.js_project/issues"
+    "url": "https://github.com/VasylBarna/financial-services/issues"
   },
-  "homepage": "https://github.com/NikOroferov/team8_node.js_project#readme",
+  "homepage": "https://github.com/VasylBarna/financial-services#readme",
   "dependencies": {
     "@sendgrid/mail": "^7.6.0",
     "axios": "^0.25.0",
